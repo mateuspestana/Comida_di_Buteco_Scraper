@@ -11,10 +11,10 @@ O arquivo atual de restaurantes não é o mesmo originado pelo Robô. O arquivo 
 
 Qualquer melhoria, sugestão ou crítica é bem-vinda. Há muito o que fazer, como:
 
-[] Lista de cidades
-[] Verificar se a página é de um restaurante ou não (ao invés de remover os links raspados, como no script)
-[] Fazer o processo de manipulação (feito externamente) no próprio script, criando a variável de bairro, limpando endereço e telefone, corrigindo horários, etc
-[] Fazer rodar headless.
+[ ] Lista de cidades
+[ ] Verificar se a página é de um restaurante ou não (ao invés de remover os links raspados, como no script)
+[ ] Fazer o processo de manipulação (feito externamente) no próprio script, criando a variável de bairro, limpando endereço e telefone, corrigindo horários, etc
+[ ] Fazer rodar headless.
 
 Um dia tudo isso será feito por mim (mas se quiser fazer, pode dar um pull request!). Estou um pouco ocupado visitando os restaurantes ;)
 
