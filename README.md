@@ -11,6 +11,7 @@ O arquivo atual de restaurantes não é o mesmo originado pelo Robô. O arquivo 
 
 Qualquer melhoria, sugestão ou crítica é bem-vinda. Há muito o que fazer, como:
 
+
 [ ] Lista de cidades
 
 [ ] Verificar se a página é de um restaurante ou não (ao invés de remover os links raspados, como no script)
